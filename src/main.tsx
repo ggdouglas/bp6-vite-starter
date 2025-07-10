@@ -2,7 +2,7 @@ import { FocusStyleManager } from "@blueprintjs/core";
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App.tsx";
-import "./styles.scss";
+import "./styles.css";
 
 import "normalize.css/normalize.css";
 import "@blueprintjs/core/lib/css/blueprint.css";
